@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/Queue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/Stack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/implementations/PriorityQueueImp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/implementations/QueueImp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/implementations/StackImp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/interfaces/PriorityQueue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/interfaces/Queue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/adt/interfaces/Stack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/entities/Edge.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/entities/Location.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/entities/PriorityQueue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/entities/QueueImp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/entities/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CruiseShipTracker/src/sr/unasat/cruise/ship/tracker/repositories/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/bfs/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/bfs/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/bfs/Queue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/bfs/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/dfs/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/dfs/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/dfs/StackX.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/dfs/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/graph/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/graph/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/mst/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/mst/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/mst/StackX.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk13/mst/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk14/mstWithWeight/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk14/mstWithWeight/Edge.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk14/mstWithWeight/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk14/mstWithWeight/PriorityQ.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/hfdstk14/mstWithWeight/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
